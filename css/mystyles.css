@@ -1,0 +1,18 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(233, 231, 239);
+    color: rgb(4, 4, 4);
+    border-bottom-width: 0cap;
+}
+head{
+    font-size: larger;
+    color: black;
+   
+}
+
+.rizzler{
+    background-image: url(https://images.unsplash.com/photo-1512641406448-6574e777bec6?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 10px;
+
+}
